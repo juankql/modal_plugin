@@ -1,0 +1,4 @@
+In the admin add the option for select the menu or menus where show the Login item, in case of have more than one menu in the website. 
+Also define a label for each menu or a single label for all the menus.
+Allow to the user to add a CSS class for the menu item.
+If there is no menu in the site, show a warning in WP admin page.
